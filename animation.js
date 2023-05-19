@@ -20,7 +20,7 @@
       endFrame: 6
     });
 
-    this.load.spritesheet('rat', 'ratjump.png', {
+    this.load.spritesheet('ratjump', 'ratjump.png', {
       frameWidth: 250,
       frameHeight: 150,
       endFrame: 4
